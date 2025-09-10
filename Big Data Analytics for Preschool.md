@@ -18,5 +18,5 @@ In education, Big Data's significance lies in its ability to analyze and predict
 
 ## ...
 
-## Bto cite this papaer
+## to cite this papaer
 Bellaj, M., El Hibaoui, A. and Bendahmane, A.Big Data Analytics for Preschool.DOI: 10.5220/0010736500003101In Proceedings of the 2nd International Conference on Big Data, Modelling and Machine Learning (BML 2021), pages 457-465
