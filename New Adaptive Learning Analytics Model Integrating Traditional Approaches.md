@@ -12,3 +12,8 @@ Our research uniquely focuses on integrating specific educational indicators int
 ### Research Context and Methodology
 Our work is set against the backdrop of rising Massive Open Online Courses (MOOCs) and the growing demand for personalized education. We combine decision modeling with big data (BD) analytics to extract valuable insights from various datasets, which enhances the quality of institutional decision-making. This aligns with the broader field of Learning Analytics (LA), which uses methods like text analysis and process mining to understand student outcomes and provide personalized feedback. The ultimate goal of this research is to enhance student outcomes and satisfaction.
 This paper is structured to first provide a background on big data and learning analytics in higher education. It then delves into analytical concepts, explains our specific methodology and findings, and presents our proposed ALA model for higher education. Finally, it concludes with a summary and a discussion of future research directions.
+
+## ...
+
+## to cite this paper
+Bellaj, M., Ben Dahmane, A., Boudra, S. ., & Lamarti Sefian, M. . (2024). Big Data Analytics in Higher Education: A New Adaptive Learning Analytics Model Integrating Traditional Approaches. International Journal of Interactive Mobile Technologies (iJIM), 18(06), pp. 24–39. https://doi.org/10.3991/ijim.v18i06.46289
