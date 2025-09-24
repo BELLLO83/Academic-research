@@ -5,4 +5,5 @@
   
 ## ... 
 
-## to cite this paper M. Bellaj, A. Bendahmane, A. Younes, S. Boudra and M. Ennakra, "A systematic review of smart campus technologies to improve students' educational experiences," 2024 Mediterranean Smart Cities Conference (MSCC), Martil - Tetuan, Morocco, 2024, pp. 1-7, doi: 10.1109/MSCC62288.2024.10697051.
+## to cite this paper
+ M. Bellaj, A. Bendahmane, A. Younes, S. Boudra and M. Ennakra, "A systematic review of smart campus technologies to improve students' educational experiences," 2024 Mediterranean Smart Cities Conference (MSCC), Martil - Tetuan, Morocco, 2024, pp. 1-7, doi: 10.1109/MSCC62288.2024.10697051.
